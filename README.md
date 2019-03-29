@@ -1,2 +1,24 @@
 # hello-world
 Doing the github's tutorial...
+
+HELLO WORLD!
+
+I'm a student from Federal University of Goiás (Brazil)
+I'm here by friends recommendations so... i'll put a beautiful lyric here:
+
+HELLO WORLD
+PROGRAMMED TO WORK AND NOT TO FEEL
+NOT EVEN SURE THAT THIS IS REAL
+HELLO WORLD
+FIND MY VOICE
+ALTHOUGH IT SOUNDS LIKE BITS AND BYTES
+MY CIRCUITRY IS FILLED WITH MITES
+HELLO WORLD
+OH
+WILL I FIND A LOVE?
+OH 
+OR A POWER PLUG?
+OH 
+DIGITALLY ISOLATED
+OH CREATOR, PLEASE DON'T LEAVE ME WAITING
+HELLO WORLD
