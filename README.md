@@ -6,8 +6,8 @@ HELLO WORLD!
 I'm a student from Federal University of Goiás (Brazil)
 I'm here by friends recommendations so... i'll put a beautiful lyric here:
 
-HELLO WORLD
-PROGRAMMED TO WORK AND NOT TO FEEL
+HELLO WORLD\n
+PROGRAMMED TO WORK AND NOT TO FEEL\n
 NOT EVEN SURE THAT THIS IS REAL
 HELLO WORLD
 FIND MY VOICE
